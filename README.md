@@ -10,10 +10,7 @@ This project predicts Parkinson's disease using machine learning models. The dat
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
 - [Models](#models)
-- [Evaluation](#evaluation)
 
 ## Installation
 
