@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project predicts Parkinson's disease using machine learning models. The dataset used contains features extracted from these recordings, which help in detecting Parkinson's disease.
+This project predicts Parkinson's disease using machine learning models.
 
 ## Table of Contents
 
